@@ -31,14 +31,14 @@
 - Anyone can use this blockchain.
 - Bitcoin is an example of public block chain.
 
-<h2>Attributes of a public blockchain. </h2>
+<h3>Attributes of a public blockchain. </h3>
 - Easy acccount creation
 - Distributed ledger storage
 - Decentralized validation
 - Decentralized Block creation
 - Decentralized Governance
 
-## Private vs Permissionless blockchain
+### Private vs Permissionless blockchain
 - In this blockchain one must be invited and very few confirm the transaction.
 ### Diffrence form public blockchain
 - Private transaction
