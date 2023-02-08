@@ -1,5 +1,5 @@
 # blockchain
--blockchain is an open and distrubuted ledger, which can recorf trasaction betwrrn tow parties in permenent way
+- blockchain is an open and distrubuted ledger, which can recorf trasaction betwrrn tow parties in permenent way
 
 ## Characteristic:
 - Open - anyone can access it.
@@ -27,7 +27,7 @@
 2. Private blockchain
 3. Permissionless blockchain
 
-## Public blockchain
+ Public blockchain
 - Anyone can use this blockchain.
 - Bitcoin is an example of public block chain.
 
