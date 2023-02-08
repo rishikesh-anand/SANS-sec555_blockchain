@@ -11,11 +11,11 @@
 ## Bitcoin 
 - Tt all startrd with a white paper for peer to peer electronic cash system.
 
-## Distributed ledger technology
+<h2> Distributed ledger technology </h2>
 - Blockchain are distributed means millions of nodes controlling blockchain.
 - So if you want to hack blockchain you need to hack all the nodes at same time (That's near to impossible).
 
-## Working
+## Working 
 1. Sends the request to P2P.
 2. This request willl broadcast to all the nodes.
 3. Then it will validate by each node.
