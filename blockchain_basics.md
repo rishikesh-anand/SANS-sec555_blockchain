@@ -22,12 +22,12 @@
 4. Then miner will verify the request and add it to the block.
 5. After this is confiremd after enough block have been added
 
-# Type of block chain
+# Type of blockchain
 1. Public blockchain
 2. Private blockchain
 3. Permissionless blockchain
 
- Public blockchain
+## Public blockchain
 - Anyone can use this blockchain.
 - Bitcoin is an example of public block chain.
 
