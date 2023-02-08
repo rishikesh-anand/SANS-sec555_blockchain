@@ -31,7 +31,7 @@
 - Anyone can use this blockchain.
 - Bitcoin is an example of public block chain.
 
-## Attributes of a public blockchain.
+<h2>Attributes of a public blockchain. </h2>
 - Easy acccount creation
 - Distributed ledger storage
 - Decentralized validation
