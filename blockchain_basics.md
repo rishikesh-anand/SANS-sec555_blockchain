@@ -48,3 +48,45 @@
 - Partial immutability
 <!-- 12 END -->
 
+# Types of Blockchain
+1. Tokenized 
+2. Tokenless
+
+## Tokenized Blockchain
+- Value carrying blockchain which require a base unit of value it's called token.
+
+## Tokenless Blockchain
+- It does not have base value for transfer.
+- Just have base properties likes Immutability, security etc etc ...
+- E.g. Private Blockchain.
+
+# Use of Blockchain
+- Crypto payment
+- Darknet market
+- DeFi
+- Dapp
+- Privicy Token
+- Proof of ownnership
+- Consumer user cases
+
+## Crypto Transaction
+- Most popular use of blockchain.
+- Compared to traditional payment much less cost and much more speed.
+
+## DeFi
+- Here, you are the bank.
+- Whole diffrent from CeFi.
+
+## Dapp
+- Tradationally its Client -> Server -> Database
+- But in Dapp it's External account -> Smart contract -> Blockchain
+
+## Privacy and utility tokens
+- See, Coin is digital cash but token is representation of assets.
+- Diffrent type of token exists 1. utility token 2. Security token.
+
+## Darknet Market
+- This blockchain algo is used in crypto markets and for transaction they use Cryptocurrency.
+
+<!-- left form 20 -->
+
