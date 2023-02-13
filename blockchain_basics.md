@@ -68,6 +68,10 @@
 - Privicy Token
 - Proof of ownnership
 - Consumer user cases
+- Supply chain
+- Authentication
+- Edcutation diploma
+- Insurance
 
 ## Crypto Transaction
 - Most popular use of blockchain.
@@ -89,4 +93,19 @@
 - This blockchain algo is used in crypto markets and for transaction they use Cryptocurrency.
 
 <!-- left form 20 -->
+
+## Supply chain
+- Its use here also beacuse, it is to be seen that nothing should be change in supply network.
+- And if anything cganges the entire network will know.
+
+## Authentication
+- Simply means prove something whthout showing that we are proving.
+
+## Edcutation Diploma
+- Here ZK proofs are used.
+- E.g. - whenyou need to show that you are passed but dont want to show the grade here ZK proof helps.
+
+## Insurance
+- To detect furad easily
+
 
