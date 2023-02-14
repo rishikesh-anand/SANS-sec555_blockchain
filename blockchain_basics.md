@@ -11,7 +11,8 @@
 ## Bitcoin 
 - Tt all startrd with a white paper for peer to peer electronic cash system.
 
-<h2>Distributed ledger technology </h2>
+<h2> Distributed ledger technology </h2>
+
 - Blockchain are distributed means millions of nodes controlling blockchain.
 - So if you want to hack blockchain you need to hack all the nodes at same time (That's near to impossible).
 
@@ -31,7 +32,8 @@
 - Anyone can use this blockchain.
 - Bitcoin is an example of public block chain.
 
-<h3>Attributes of a public blockchain. </h3>
+<h3> Attributes of a public blockchain. </h3>
+
 - Easy acccount creation
 - Distributed ledger storage
 - Decentralized validation
@@ -98,7 +100,7 @@
 - Its use here also beacuse, it is to be seen that nothing should be change in supply network.
 - And if anything cganges the entire network will know.
 
-## Authentication
+<h2> Authentication </h2>
 - Simply means prove something whthout showing that we are proving.
 
 ## Edcutation Diploma
@@ -107,5 +109,11 @@
 
 ## Insurance
 - To detect furad easily
+
+## Goverment use case
+- To make a secure voting system as usps did and it's awesome.
+- From this system every citizen of us can see their vote anytime using their key and still they can count it.
+
+##  
 
 
