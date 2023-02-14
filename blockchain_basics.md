@@ -125,4 +125,38 @@ one of these parties allocates digital assets at the contracts initiation which 
 redistributed to all involved parties in accordance with a predefined protocol encoded in
 logic and a state that is initialized at the start of the contract.
 
+## Purpose
+- It enables blockchain to move from single puropse such as crypto to multi purpose form platform used to deploy various decentralized application
+
+## Smart Contract brief
+- Program running on smart contract can execute automatically when some condition are met.
+
+## Supply change usage 
+- Provinance firm is using smart contract to track his incredint form source to consumer.
+
+## DiFi
+- Creating monetry banking service
+- It has changed the traditional financial products to open source adn decentralised world 
+
+## Gambling
+- Smart contracts are also used in gambling as vurtial casino.
+
+## Social network
+- Making decentralised social network that is free of bots and fake accounts.
+
+## Gaming
+- Yeah it's in gaming and in that some users may rewarded in NFT's.
+
+## EOS.IO
+- EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS. It is a smart contract platform that claims to eliminate transaction fees and also conduct millions of transactions per second, much faster than Bitcoin and similar protocols.
+
+## Hyperledger 
+- It's a project of servel opensourece blockchain and blockchain tools are started by the linux foundatation.
+
+## Corda
+- Provide private blockchain solutation.
+
+<!-- Left form 3 -->
+
+
 
