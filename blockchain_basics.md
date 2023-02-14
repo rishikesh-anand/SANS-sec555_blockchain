@@ -1,4 +1,4 @@
-# blockchain
+#                                           blockchain
 - blockchain is an open and distrubuted ledger, which can recorf trasaction betwrrn tow parties in permenent way
 
 ## Characteristic:
@@ -74,6 +74,7 @@
 - Authentication
 - Edcutation diploma
 - Insurance
+- Govrement use case 
 
 ## Crypto Transaction
 - Most popular use of blockchain.
@@ -101,6 +102,7 @@
 - And if anything cganges the entire network will know.
 
 <h2> Authentication </h2>
+
 - Simply means prove something whthout showing that we are proving.
 
 ## Edcutation Diploma
@@ -114,6 +116,13 @@
 - To make a secure voting system as usps did and it's awesome.
 - From this system every citizen of us can see their vote anytime using their key and still they can count it.
 
-##  
+##  Proof of Ownnership
+- Here NFT comes in and boom they can use to track ownnership via blokchain.
+
+#                                           Smart Cotracts
+- An arrangement between two or more parties exchanging digital assets, where at least
+one of these parties allocates digital assets at the contracts initiation which are then
+redistributed to all involved parties in accordance with a predefined protocol encoded in
+logic and a state that is initialized at the start of the contract.
 
 
