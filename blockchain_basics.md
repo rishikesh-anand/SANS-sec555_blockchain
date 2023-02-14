@@ -150,7 +150,8 @@ logic and a state that is initialized at the start of the contract.
 ## EOS.IO
 - EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS. It is a smart contract platform that claims to eliminate transaction fees and also conduct millions of transactions per second, much faster than Bitcoin and similar protocols.
 
-## Hyperledger 
+<h2> Hyperledger </h2>
+
 - It's a project of servel opensourece blockchain and blockchain tools are started by the linux foundatation.
 
 ## Corda
