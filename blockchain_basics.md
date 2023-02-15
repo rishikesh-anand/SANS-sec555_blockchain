@@ -131,7 +131,8 @@ logic and a state that is initialized at the start of the contract.
 ## Smart Contract brief
 - Program running on smart contract can execute automatically when some condition are met.
 
-## Supply change usage 
+<h2> Supply change usage </h2>
+
 - Provinance firm is using smart contract to track his incredint form source to consumer.
 
 ## DiFi
@@ -161,7 +162,8 @@ logic and a state that is initialized at the start of the contract.
 
 # Keys, Wallets and Cryptography
 
-## Fundamentals
+<h2> Fundamentals </h2>
+
 - Gola is to communicate securely. 
 - VIA CIA tried
 
@@ -200,7 +202,8 @@ logic and a state that is initialized at the start of the contract.
 - Deterministic wallet.
 - Hierarchical Deterministic wallet.
 
-## Paper wallet
+<h2> Paper wallet </h2>
+
 - Private key and address are printed on paper.
 - This can be obatined form bitcoin atm.
 
