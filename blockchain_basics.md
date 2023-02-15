@@ -11,7 +11,7 @@
 ## Bitcoin 
 - Tt all startrd with a white paper for peer to peer electronic cash system.
 
-<h2> Distributed ledger technology </h2>
+<h2>Distributed ledger technology </h2>
 
 - Blockchain are distributed means millions of nodes controlling blockchain.
 - So if you want to hack blockchain you need to hack all the nodes at same time (That's near to impossible).
@@ -32,7 +32,7 @@
 - Anyone can use this blockchain.
 - Bitcoin is an example of public block chain.
 
-<h3> Attributes of a public blockchain. </h3>
+<h3>Attributes of a public blockchain. </h3>
 
 - Easy acccount creation
 - Distributed ledger storage
@@ -101,7 +101,7 @@
 - Its use here also beacuse, it is to be seen that nothing should be change in supply network.
 - And if anything cganges the entire network will know.
 
-<h2> Authentication </h2>
+<h2>Authentication </h2>
 
 - Simply means prove something whthout showing that we are proving.
 
@@ -131,7 +131,7 @@ logic and a state that is initialized at the start of the contract.
 ## Smart Contract brief
 - Program running on smart contract can execute automatically when some condition are met.
 
-<h2> Supply change usage </h2>
+<h2>Supply change usage </h2>
 
 - Provinance firm is using smart contract to track his incredint form source to consumer.
 
@@ -151,7 +151,7 @@ logic and a state that is initialized at the start of the contract.
 ## EOS.IO
 - EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS. It is a smart contract platform that claims to eliminate transaction fees and also conduct millions of transactions per second, much faster than Bitcoin and similar protocols.
 
-<h2> Hyperledger </h2>
+<h2>Hyperledger </h2>
 
 - It's a project of servel opensourece blockchain and blockchain tools are started by the linux foundatation.
 
@@ -162,7 +162,7 @@ logic and a state that is initialized at the start of the contract.
 
 # Keys, Wallets and Cryptography
 
-<h2> Fundamentals </h2>
+<h2>Fundamentals </h2>
 
 - Gola is to communicate securely. 
 - VIA CIA tried
@@ -202,7 +202,7 @@ logic and a state that is initialized at the start of the contract.
 - Deterministic wallet.
 - Hierarchical Deterministic wallet.
 
-<h2> Paper wallet </h2>
+<h2>Paper wallet </h2>
 
 - Private key and address are printed on paper.
 - This can be obatined form bitcoin atm.
@@ -216,5 +216,6 @@ logic and a state that is initialized at the start of the contract.
 ## Brain wallet 
 - Memorize it and it is unhackble until you do it.
 
+<!-- Left form 3.14 -->
 
 
