@@ -159,5 +159,59 @@ logic and a state that is initialized at the start of the contract.
 
 <!-- Left form 3 -->
 
+# Keys, Wallets and Cryptography
+
+## Fundamentals
+- Gola is to communicate securely. 
+- VIA CIA tried
+
+## Hash
+- It's one way we can create an hash but can't match it.
+- Collision resistance - We should not have same wallet address.
+
+## Type of Cryptography
+### Public (Asymmetric)
+- Shall have 2 keys Public and Private.
+- Private key to sign the transaction.
+- Public key to decrypt.
+- Sender encrypt with recivers public key
+- Reciver decrypt with reciver's private key.
+- Reciver verify the signature with senders public key.
+### Symmetric
+- Uses one key to decrypt and encrypt.
+- Both shall have single key.
+- Both encrypt with shared key.
+
+## This public and private keys are used in macnism of our crypto wallet
+
+## Elliptic curve technology
+- This is same technology is used in ssl and tls certs.
+- Here private key is representd prime number.
+
+## Cryptocurrency wallet 
+- Stores public - private key pair plus addreses.
+### Formats of wallet
+- Paper wallet
+- Hardware wallet
+- Sowtware wallet
+- Brain wallet
+### Type of wallet
+- Non Deterministic wallet.
+- Deterministic wallet.
+- Hierarchical Deterministic wallet.
+
+## Paper wallet
+- Private key and address are printed on paper.
+- This can be obatined form bitcoin atm.
+
+## Hardware wallet 
+- Stores a private key on diffrent hardware device.
+
+## Software wallet
+- We all know E.g. Metamask
+
+## Brain wallet 
+- Memorize it and it is unhackble until you do it.
+
 
 
