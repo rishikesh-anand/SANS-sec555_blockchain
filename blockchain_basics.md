@@ -216,6 +216,31 @@ logic and a state that is initialized at the start of the contract.
 ## Brain wallet 
 - Memorize it and it is unhackble until you do it.
 
-<!-- Left form 3.14 -->
+## Non-Deterministic wallet
+- Each pair is generated independetly
+- it have static keys.
+
+## Deterministic wallet
+- Single seed to generate manny keys
+- Mostly used in Hardware wallet
+- Only need to remember seed
+- Type 1 (known as)
+
+## Hierarchial Deterministic wallet
+- HD wallet enable tree like strcture for master and child keys.
+- This also unlock business use case.
+
+## Mnemonic keys and bip 39 standerds
+- Monic key is word for private keys
+- BIP39 is most commanly used Key gen for blockchain and smart contracts
+- It use 12 to 24 words mnemonic ksy as seed, words are selected from bank of 2048 words.
+
+
+# LAB 
+- After excrating iso and zillion you will get vm file.
+- run `workbook-update` 
+- all the next steps are written in lab
+
+<!-- Lab 1 complet of 1.3 -->
 
 
