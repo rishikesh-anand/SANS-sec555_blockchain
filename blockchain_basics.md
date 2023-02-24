@@ -238,9 +238,47 @@ logic and a state that is initialized at the start of the contract.
 
 # LAB 
 - After excrating iso and zillion you will get vm file.
-- run `workbook-update` 
-- all the next steps are written in lab
+- Run `workbook-update` 
+- All the next steps are written in lab
 
-<!-- Lab 1 complet of 1.3 -->
+# CONSENSUS MECHANISM
+
+## Proof of work
+- It is a piece of data which is diffcult to produce but easily verify able.
+- Hashing is uded by bitcoin as proof of .. the more cpu power the higher hash rate.
+- THe miner has to solve complex mathmetical problem to earn bitcoin.
+
+## Mining types
+
+### solo mining
+- Advantage is no sharing of block of reward. Cheap to get tarted.
+- Now alomst impossible ot win a block. Noice and electricity usage.
+
+### Mining pool
+- We can join a mining pool
+- They use our resource for mining and split the reward upon proof of work
+
+### Cloud mining
+- Advantage is less cost no heat and noice. Buy as many as you want.
+- Disadvantage is lot of scams, centrelised, create opp for 51 percent attack at scale.
+
+## mining process
+- Transaction are hashed with SHA265
+- Transaction is made of diffrent component and it all form merkle tree.
+- when we transat bitcoin it's hash become leave and all transaction make another leave 
+- And all that another leave create root that root is known as merkle root.
+- That merkle root has all transaction of that block.
+- If we change something in that bloc merkle root will also change.
+- We have header of transaction which has version, it contains version of bitcoin. (this dosn't affect transation at all)
+- The after version inheader we have previous block hash, it contain hash of previous block.
+- Then in header we have merkle root hash this is where transaction is added and has all transaction.
+- NOTE - Genesis is the first block ever mined.
+- Then in header we have timestamp here timestamp are created as block are mined.
+- Then in header we have targer it is the target that miner has to hit in order to win an bitcoin.the target adjusts accroding to people and speed.
+- Then in header we have nonce it is the random number added by miner to create hash to be subbmited to be compared to targer diffculty and it's in bit and bytes.
+- Then we have targer diffculty(not part of header) the target level of diffculty bitcoin is recalculated every 2016 block.
+- Diffcultu is just combination of O and F.
+- 
+<!-- left form 1.4.18 -->
 
 
