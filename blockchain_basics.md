@@ -309,3 +309,22 @@ when Confirmations are performed.
 - This was coined by founder of eth.
 - **Speed, Security and Decentralization** are the blockchain Trillema.
 
+# Bitcoin transaction
+- Bitcoin transaction is essentially data that describe movement of bitcoin.
+- Every transaction has transaction id or "tx" to identify it on blockchain.
+- A transaction takes input and create new output.
+### Transaction data is made up of:
+- Version 
+- Input 
+- Input count 
+- Output 
+- Output count
+
+## Input
+- Input does two things 1) select output and 2) unlock that output with "scriptSig"
+- An unspent transaction (UTXO) are outputs that can be used as input in transactions.
+
+## Outputs
+- Each output has a lock which is used as input in fucture transaction and locked with "ScriptPubKey".
+- ScriptPubKey prevent other users for using this outputs in other transaction.
+- After inputs are selected to spend you can create multipe outputs where value are <= input
