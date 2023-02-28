@@ -328,3 +328,13 @@ when Confirmations are performed.
 - Each output has a lock which is used as input in fucture transaction and locked with "ScriptPubKey".
 - ScriptPubKey prevent other users for using this outputs in other transaction.
 - After inputs are selected to spend you can create multipe outputs where value are <= input
+
+## Transaction overview
+- Satoshi is like penny to dollar
+- Input (TXID) - Refers to existing transaction
+- Input (VOUT) - select one of it's output
+- Input (ScriptSig and Script_type) - Script that unlocks the input.
+- Input (Sequence) - Fout byte sequence
+- Output (ScriptPubKey) - A script that locks the output
+- input/output counts- number of input or output in transaction.
+- 
