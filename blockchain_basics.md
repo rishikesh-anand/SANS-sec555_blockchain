@@ -373,3 +373,12 @@ to approve a morning coffee purchase
 
 <!-- labs -->
 
+# BLockchain components
+
+## The Bitcoin network
+- All nodes are equal
+- New node can join anytime with knowlage of atleast one connected node
+- Peer list is build recursively
+- Nodes can leave anytime
+- Random network technology
+- Resilint ot outsages
