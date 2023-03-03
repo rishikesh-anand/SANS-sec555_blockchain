@@ -337,4 +337,27 @@ when Confirmations are performed.
 - Input (Sequence) - Fout byte sequence
 - Output (ScriptPubKey) - A script that locks the output
 - input/output counts- number of input or output in transaction.
-- 
+
+## Transaction visulatation
+- It tells you how to unlock exesting package of bitcoin using previous transaction on the chain with similar value and how to lock them up again into new packages(unspent trransaction).
+
+## Diffrent type of transaction script
+- Pay_To_PubKey
+- Pay_To_PubKey_Hash
+- Pay_To_Script_Hash
+- NULL_DATA
+ 
+## Lightning Network
+- Bitcoin currently supports 7 transactions per second (ps) whereas Visa supports 2000 tps.
+- One solution to scaling BTC txns is Lightning Network
+- Key idea: why process small, repeated txns on the main chain?
+- Instead, a L2 protocol that sits atop the Bitcoin Network was created.
+- Basic Setup
+- Two participants create a channel on Lightning network and fund it with a starting balance.
+- After many transactions, once no more transactions are expected, the channel is closed and
+ONLY the final amounts are written to the main chain
+- What this unlocks
+- Onion-style routing via relay nodes: not necessary to have a channel to send money to another
+person... send it through intermediaries and it will route eventually to the person
+- Higher tps: txns will be approved much faster in small networks than waiting for the whole world
+to approve a morning coffee purchase
