@@ -361,3 +361,15 @@ ONLY the final amounts are written to the main chain
 person... send it through intermediaries and it will route eventually to the person
 - Higher tps: txns will be approved much faster in small networks than waiting for the whole world
 to approve a morning coffee purchase
+
+# Block explorer
+- A application that allows everyone to see transaction realtime , for users with internet connection.
+- Typaicliiy present block information is provided
+- Some popular block explorer are
+- btc.com
+- Blockchain.com
+- bitsnap
+- ehterscan.io
+
+<!-- labs -->
+
