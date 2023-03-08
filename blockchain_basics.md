@@ -382,3 +382,12 @@ to approve a morning coffee purchase
 - Nodes can leave anytime
 - Random network technology
 - Resilint ot outsages
+
+## Bitcoin nodes and client
+- They are open source you can download it and edit it
+### The RPC API
+- This api is about intracting with btc network
+- it runs on tcp 8333
+- you can use sommands to intract with it  
+
+<!-- left from .9 -->
