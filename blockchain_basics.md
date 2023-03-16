@@ -390,4 +390,12 @@ to approve a morning coffee purchase
 - it runs on tcp 8333
 - you can use sommands to intract with it  
 
-<!-- left from .9 -->
+
+# Ethereum
+- Ethereum is proof of stake system.
+- Ethereum is programmed in solidity.
+- Intent to serve as a decentrelised computer feturing smart contractrather than restrict itself in transaction processing 
+in bitcoin
+
+## EVM 
+- 
